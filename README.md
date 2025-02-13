@@ -1,4 +1,4 @@
-oCallerIdSpam
+NCallerIdSpam
 This Tampermonkey script allows you to automatically spam NoCallerId calls using Google Voice.
 
 How to Use:
